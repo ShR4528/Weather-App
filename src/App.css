@@ -113,3 +113,17 @@ button:active {
   letter-spacing: 1px;
   font-weight: 200;
 }
+@media (max-width: 800px) {
+  .title-container {
+    display: none;
+    width: 100%;
+  }
+  .form-container {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
