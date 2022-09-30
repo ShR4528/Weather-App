@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.344d0ac6.css",
+    "main.js": "/Weather-App/static/js/main.2f93425b.js",
+    "static/js/787.bc7d429a.chunk.js": "/Weather-App/static/js/787.bc7d429a.chunk.js",
+    "static/media/pexels-alvaro-arano-12977998.jpg": "/Weather-App/static/media/pexels-alvaro-arano-12977998.b01db3ef5c21c2f32a65.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/Weather-App/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Weather-App/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Weather-App/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Weather-App/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Weather-App/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/Weather-App/index.html",
+    "main.344d0ac6.css.map": "/Weather-App/static/css/main.344d0ac6.css.map",
+    "main.2f93425b.js.map": "/Weather-App/static/js/main.2f93425b.js.map",
+    "787.bc7d429a.chunk.js.map": "/Weather-App/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344d0ac6.css",
+    "static/js/main.2f93425b.js"
+  ]
+}
