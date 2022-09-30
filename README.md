@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Create Weather-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![img5](https://user-images.githubusercontent.com/107538948/193218667-c7f7ec2e-0f37-4b1e-91b8-53091ce0bd4d.png)
 
-## Available Scripts
+## In this app about weather forecast, made on React, an API key was used to get the weather in any country and city in the world.In addition to the temperature, the application also shows the humidity and conditions at the selected location
+
+# Built using:
+Front-end library:
+* React
+* Bootstrap CSS
+* API
 
 In the project directory, you can run:
 
@@ -14,10 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -41,21 +43,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
