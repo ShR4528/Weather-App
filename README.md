@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create Weather-App
 
 ![img5](https://user-images.githubusercontent.com/107538948/193218667-c7f7ec2e-0f37-4b1e-91b8-53091ce0bd4d.png)
 
+## In this app about weather forecast, made on React, an API key was used to get the weather in any country and city in the world.In addition to the temperature, the application also shows the humidity and conditions at the selected location
 
 ## Available Scripts
 
